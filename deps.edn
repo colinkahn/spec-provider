@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.1"}
+        pretty-spec {:mvn/version "0.1.4" :exclusions [fipp]}
+        fipp {:mvn/version "0.6.23"}
+        org.clojure/clojurescript {:mvn/version "1.10.238"}}}
